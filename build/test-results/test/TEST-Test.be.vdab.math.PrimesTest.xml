@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test.be.vdab.math.PrimesTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-06-19T10:46:48" hostname="iMac-10.local" time="0.001">
+  <properties/>
+  <testcase name="primeNumberReturnsTrue" classname="Test.be.vdab.math.PrimesTest" time="0.001"/>
+  <testcase name="primeNumberReturnsFalseIfNumberIsNotPrime" classname="Test.be.vdab.math.PrimesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
